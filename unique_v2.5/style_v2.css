@@ -1,0 +1,44 @@
+/* Models Reihenfolge fix */
+.owl-item, .post-content-wrapper ul li,
+.kaya-post-content-wrapper ul li {
+  position: relative !important;
+  left: auto  !important;
+  top: auto  !important; }
+  @media only screen and (max-width: 480px) {
+    .owl-item, .post-content-wrapper ul li,
+    .kaya-post-content-wrapper ul li {
+      height: 150vw; } }
+  @media only screen and (min-width: 481px) {
+    .owl-item, .post-content-wrapper ul li,
+    .kaya-post-content-wrapper ul li {
+      height: 70vw; } }
+  @media only screen and (min-width: 768px) {
+    .owl-item, .post-content-wrapper ul li,
+    .kaya-post-content-wrapper ul li {
+      height: 48vw; } }
+  @media only screen and (min-width: 1025px) {
+    .owl-item, .post-content-wrapper ul li,
+    .kaya-post-content-wrapper ul li {
+      height: 36vw; } }
+  @media only screen and (min-width: 1110px) {
+    .owl-item, .post-content-wrapper ul li,
+    .kaya-post-content-wrapper ul li {
+      height: 47vw; } }
+  @media only screen and (min-width: 1367px) {
+    .owl-item, .post-content-wrapper ul li,
+    .kaya-post-content-wrapper ul li {
+      height: 515px; } }
+
+form.wpcf7-form input[type=text],
+form.wpcf7-form input[type=email] {
+  width: 100%; }
+
+form.wpcf7-form input[type=submit] {
+  background: #fff;
+  color: #666;
+  border: 1px solid #666; }
+  form.wpcf7-form input[type=submit]:hover {
+    background: #ccc; }
+
+form.wpcf7-form .wpcf7-response-output {
+  margin: 20px 0 0; }

@@ -1,0 +1,229 @@
+@media screen and (min-width: 768px) and (max-width: 1366px) {
+    /* Global column layout width 100%  =================================*/    
+    .container{
+        width:90% !important;
+        padding: 0px;
+    }
+}
+@media only screen and (min-width: 1024px) and (max-width: 1366px) {
+    .post-content-wrapper .column2, .post-content-wrapper .column3, .post-content-wrapper .column4, .post-content-wrapper .column5, .post-content-wrapper .column6, .post-content-wrapper .column7, .post-content-wrapper .column8, .post-content-wrapper .column9, 
+    .post-content-wrapper .video_iframes2 iframe, .post-content-wrapper .video_iframes3 iframe, .post-content-wrapper .video_iframes4 iframe{
+         width:31.8%;
+    }    
+}
+@media only screen and (max-width: 1024px) {
+    .post_single_page_content_wrapper .one_fifth,
+    .post_single_page_content_wrapper .four_fifth_last{
+        width: 100%;
+    }
+    .post_single_page_img_details .three_fourth_last{
+        padding-top: 30px;
+    }
+    ul.tabs_content_wrapper li {
+        /*margin-bottom: 10px;*/
+    }
+    ul.tabs_content_wrapper li:last-child {
+        margin-bottom: 0px !important;
+    }
+}
+
+@media only screen and (max-width: 1025px) {
+    #header-navigation {
+        display: none;
+    }
+    .container{
+        width: 90%;
+        padding: 0px;
+    }
+    #logo a {
+        float: left;
+    }
+    #kaya-header-content-wrapper div#main-nav {
+        float: inherit!important;
+    }
+    .mobile_toggle_menu_icons {
+        float: right;
+        margin-right: 0px;
+        position: absolute;
+        top: 35px;
+        right: 40px;
+    }
+    #mid-content, #sidebar{
+      padding: 15px 0;
+    }  
+
+    /**
+     * Top Header
+     */
+     .top-header-wrapper .one_half_last span, .top-header-wrapper, .top-header-wrapper .one_half_last{
+        text-align: center;
+        margin: 0px;
+     }
+
+     /**
+      * Menu
+      */
+    
+    .menu li a{
+        cursor: pointer;
+    }
+    .top-nav a span.sub-arrow{
+        display: block;
+    }
+    #header-navigation{
+        padding:0;
+    }
+    .menu ul li > a, .menu ul li > a:hover,
+    ul.sub-menu li a, ul.sub-menu li a:hover {
+        padding: 11px 13px !important;
+    }
+    ul.sub-menu li a, ul.sub-menu li a:hover {
+        padding-left:30px !important;
+    }
+    .top-nav > li {
+        margin-top: 0px!important;
+    }
+    #kaya-header-content-wrapper .container {
+        width: 100%;
+    }
+   .top-nav, .top-nav ul, .top-nav li{
+        float: inherit!important;
+    }
+    .top-nav .sub-menu li{
+        border-bottom: 1px solid #e6e6e6;
+    }
+    #header-navigation ul{
+        box-shadow: 0 0!important;
+        background: #f2f2f2;
+        width: 100%;
+    }
+    .top-nav a, .top-nav a:hover, .top-nav a:focus, .top-nav a:active{
+        margin-left: 0px;
+    }
+    #header-navigation ul li a {
+        border-bottom: 1px solid rgba(204,204,204,.3);
+        padding-left: 0px;
+    }
+    .user-account a:first-child,
+    .user-account:hover a:first-child {
+        margin-left:0px;
+    }
+    div#logo{
+        display: table;
+    }
+    #kaya-header-content-wrapper,
+    #header-navigation .sub-menu a {
+        background: transparent !important;
+    }
+    #header-navigation .sub-menu a {
+        color: #333 !important;
+    }
+    .shortlist-align a{
+        display: block;
+        padding: 11px 13px !important;
+    }
+    .shortlist-align {
+        margin: 0;
+        width: 100%;
+    }
+    /**
+     * Column Width
+     */
+    .one_half,
+    .one_half_last,
+    .one_fourth,
+    .one_fourth_last,
+    .footer_widgets .one_fourth,
+    .footer_widgets .one_fourth_last,
+    .two_third,
+    .one_third,
+    .one_third_last,
+    .one_fifth,
+    .four_fifth_last,
+    .three_fourth,
+    .three_fourth_last,
+    .header_menu_section,
+    .woocommerce div.product div.images,
+    .fm-form li,
+    #setcard .one_third,
+    .two_third_last, #kaya-header-content-wrapper, #kaya-header-content-wrapper #header-navigation {
+        margin: 0px;
+        float: none;
+        clear: both;
+        width: 100%;
+    }      
+    footer, .footer-menu-wrapper ul{
+        text-align: center;
+    }    
+    .top-nav ul {
+        margin-top: 0px !important;
+    }
+    .pods_cpt_single_compcard {
+        margin-bottom: 40px;
+    }
+    .post_single_page_img_details .one_fourth{
+        margin-bottom: 60px;
+    }
+}
+@media only screen and (min-width:601px) and (max-width: 1025px) {
+    .general-meta-fields-info-wrapper ul li {
+        display: inline-block;
+        margin-right: 32px;
+        width: 44%;
+    }
+}
+@media only screen and (max-width:480px) {
+    .shortlist-align a{
+        display: block;
+        padding: 11px 13px !important;
+    }
+    .toggle_search_field{
+        width: 320px;
+    }
+    #logo img {
+        padding-top: 10px;
+        width: 85%;
+    }
+    ul.tabs_content_wrapper li a{
+        font-size: 12px;
+        padding: 5px 5px;
+    }
+}   
+@media screen and (min-width: 481px) and (max-width: 767px) {
+    .column2, .column3, .column4, .column5, .column6, .column7, .column8, .column9, .video_iframes2 iframe, .video_iframes3 iframe, 
+    .video_iframes4 iframe {
+        width: 46.3%!important;
+    }
+} 
+@media screen and (min-width: 768px) and (max-width: 1024px) {
+    .column2, .column3, .column4, .column5, .column6, .column7, .column8, .column9, .video_iframes2 iframe, .video_iframes3 iframe, 
+    .video_iframes4 iframe {
+        width: 31%!important;
+    }
+} 
+
+@media screen and (min-width: 1025px) and (max-width: 1109px) {
+    .column2, .column3, .column4, .column5, .column6, .column7, .column8, .column9, .video_iframes2 iframe, .video_iframes3 iframe, 
+    .video_iframes4 iframe {
+        width: 23%!important;
+    }
+} 
+@media only screen and (max-width:600px) {
+    .general-meta-fields-info-wrapper ul li {
+        display: block;
+        margin-right: 0;
+        width: 100%;
+    }
+}
+
+@media only screen and (min-width:1026px) and (max-width: 1366px) {
+    .post_single_page_content_wrapper .one_fourth {
+        width: 34%;
+    }
+    .post_single_page_content_wrapper .three_fourth_last {
+        width:62.05%;
+    }
+    .general-meta-fields-info-wrapper ul li{
+        width: 46%;
+    }
+}

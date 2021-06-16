@@ -1,0 +1,182 @@
+/*
+Theme Name: julia
+
+Adding support for languages written in a Right To Left (RTL) direction is easy -
+it's just a matter of overwriting all the horizontal positioning attributes
+of your CSS stylesheet in a separate stylesheet file named rtl.css.
+
+https://codex.wordpress.org/Right-to-Left_Language_Support
+
+*/
+
+
+body {
+	direction: rtl;
+	unicode-bidi: embed;
+}
+/*--------------------------------------------------------------
+# Alignments
+--------------------------------------------------------------*/
+.alignleft {
+	display: inline;
+	float: right;
+}
+.alignright {
+	display: inline;
+	float: left;
+}
+.aligncenter {
+	clear: both;
+	display: block;
+}
+.page-links {
+    clear: both;
+    margin: 0px 15px;
+    display: block;
+    overflow: hidden;
+}
+/*--------------------------------------------------------------
+# Header Section
+--------------------------------------------------------------*/
+div#main-nav{
+	float:right;
+}
+.header-section-wrapper {
+    float: left;
+}
+.header-right-section {
+    float: left;
+}
+#logo {
+    float: right;
+}
+#header-navigation {
+    float: left;
+}
+.top-nav li {
+    float: right;
+}
+.shortlist-align{
+	float: right;
+}
+.sub-menu li a{
+	text-align: right;
+}
+span.shortlist-count {
+    float: right;
+}
+.toggle_search_icon{
+	border-right: 50px solid transparent;
+	left: 0;
+	border-left: 0;
+    right: auto;
+}
+.toggle_search_icon i{
+	right: -30px;
+}
+.toggle_search_wrapper{
+	left: 0;
+    right: auto!important;
+}
+span.search_close{
+	right: 0;
+}
+.elementor-text-editor.elementor-clearfix{
+	text-align: right!important;
+}
+.elementor-social-icons-wrapper{
+	text-align: left;
+}
+.one_fourth{
+	float: right;
+	margin-right: 0;
+	margin-left: 3.80%;
+}
+.kaya-page-titlebar-wrapper {
+    text-align: right!important;
+}
+table.list-table-content-wrapper {
+    text-align: right;
+}
+.kaya-table th{
+	text-align: right;
+}
+.post_thumb img{
+	float: inherit!important;
+}
+.kaya-table td{
+	padding: 0 10px;
+}
+.cpt_posts_add_remove, .pods_cpt_single_compcard a, .general-meta-fields-info-wrapper ul li, .general-meta-fields-info-wrapper strong, .general-meta-fields-info-wrapper span, .tagcloud a{
+	float: right;
+}
+.pods_cpt_single_compcard a{
+	margin: 10px 15px 0px 0px;
+}
+ul.tabs_content_wrapper li{
+	margin-left: 10px;
+	margin-right: 0px;
+}
+a.item_button{
+	right: -40px;
+	-webkit-transform: rotate(45deg);
+	left: auto;
+}
+.post-meta-general-info b{
+	float: right;
+}
+.post-content-wrapper li{
+	margin-right: 0%;
+	margin-left: 1.5%;
+}
+.filter-tabs{
+	text-align: right!important;
+}
+a.item_button i{
+	-webkit-transform: rotate(135deg);
+}
+.general-meta-fields-info-wrapper ul li{
+	margin-right: 0px;
+	margin-left: 20px;
+}
+.single .general-meta-fields-info-wrapper{
+	margin-bottom: 0%
+}
+.gallery-item{
+	margin-right: 0%;
+	margin-left: 1.5%;
+}
+.kaya-post-content-wrapper ul li{
+	float: right;
+}
+.grid-view-container h3:before {
+    right: 0;
+}
+.single-page-meta-content-wrapper h2, .single-page-meta-content-wrapper h3{
+	margin-bottom: 25px;
+}
+.tag-cloud h3, .grid-view-container h3{
+	text-align: right;
+}
+.tagcloud a{
+	border-left: 3px solid #d8d8d8;
+	border-right: none;
+}
+.tagcloud a:before{
+	width: auto;
+	height: 0;
+	left: 0;
+	border-left: 5px solid #d8d8d8;
+	border-right: none;
+}
+.tagcloud a:hover{
+	border-left: 3px solid #ff3333;
+	border-right: none;
+}
+.tagcloud a:hover:before{
+	width: auto;
+	height: 0;
+	left: 0;
+	border-left: 5px solid #ff3333;
+	border-right: none;
+}

@@ -1,0 +1,11 @@
+#pods-form-ui-pods-meta-wichtige-informationen{
+    display: none;
+}
+
+.form-wrap p, p.description{
+    color: #F70105 !important;
+}
+
+#disclaimer{
+    color: red !important;
+}

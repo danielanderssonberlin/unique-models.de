@@ -1,0 +1,487 @@
+Version 1.8.1
+====================
+-- Shortlist - Menu Alignment issue fixed.
+-- Userdashboard - Menu Alignment issue fixed.
+
+Version 1.8.0
+====================
+-- Talents posts title colors,image hover background colors etc.., added in customizer.
+
+Version 1.7.9
+====================
+-- Gutenberg Support Added.
+-- Fixed Minor Issues Like Sanitization callback's etc..,
+-- Talent single page tab colors added in customizer.
+-- Header & Footer Elementor Compactibility issue fixed.
+-- All customizer issues fixed.
+
+Version 1.7.8
+====================
+-- Shortlist Widgetized Area added.
+-- WooCommerce template files Update issue fixed.
+
+Version 1.7.7
+====================
+-- Minor Changes In Single Page
+
+Version 1.7.6
+====================
+-- Shortlist Print Issue Fixed.
+
+Version 1.7.5
+====================
+* New Feature Added For Talents Single Page Tabs section Enable/Disable Option.
+
+Version 1.7.4
+====================
+-- Added Paid Memberships Pro 
+-- Theme Layout Customized.
+-- Added Tags Our Talents Single Page.
+-- Responsive issue fixed
+
+Version 1.7.3
+====================
+-- Live Customizer issue fixed.
+-- RTL support added.
+-- Added .Po file for language translation.
+
+version 1.7.2
+====================
+Please note that theme has been done with major Updates so old buyers who bought this theme before 30-03-2017 contact us via our support forum http://support.kayapati.com/
+
+New buyers can ignore the above message can use with our any issues.
+
+Updates:
+
+-- Major changes has been done.
+—- Removed Talent Agency plugin and replaced with Pods Plugin
+—- Added Pods Post Display Plugin
+—- Added Pods Compcard Plugin
+—- Added Pods Short List plugin
+—- Removed Kaya Roles Manager and replace with Members Plugin.
+—- Added Pods Post access Manager
+-- Added Notification Plugin
+-- Smart Slider Plugin
+-- Elementor Page Builder
+-- Ultimate Member Plugin
+-- Search Functionality Changed
+-- Caldera Forms Plugin
+-- AE Template Plugin added for shortcode
+
+version 1.7.1
+====================
+-- Columns Slider Issue Fixed.
+
+version 1.7.0
+====================
+-- Theme customizer "typography section > font settings" slider range issue fixed.
+
+version 1.6.9
+====================
+-- Sticky Header Issue Fixed.
+
+version 1.6.8
+====================
+-- user logout issue fixed in admin bar.
+
+version 1.6.7
+====================
+-- Fullscreen Slider Updated
+
+version 1.6.6
+====================
+-- Added an options "Comments Enable / Disable " in theme "Appearance > Customize > portfolio section > Portfolio Single Page Settings > Portfolio Single Page Comment Section".
+
+version 1.6.5
+====================
+-- Updated One Click Demo
+-- Updated Language Files
+
+version 1.6.4
+====================
+-- Updated Woocommerce files.
+
+version 1.6.3
+====================
+-- Talent Information disable issue fixed in "KTA- Talents Grid View " widget.
+
+version 1.6.2
+====================
+-- "Model Images" Hover title hover disable option added in theme "Appearance > Customize > portfolio section > portfolio category" Section.
+-- Issue fixed, when model options are empty display background color.
+
+version 1.6.1
+====================
+-- Update cart button issue fixed.
+
+version 1.6.0
+====================
+-- Updated Woocommerce files.
+-- Product thumbnails issue fixed in products single page.
+
+version 1.5.9
+====================
+-- WooCommerce out dated files issue fixed. 
+
+
+
+version 1.5.8
+====================
+-- Top Right Section "Search Icons" Enable Disable option added in "Appearance > Customize > General" Section.
+-- "Blog Archives & Category page" sidebar display issue fixed.
+-- Removed "Pretty photo" image light box and added "Photo Swipe" light box option.
+
+version 1.5.7
+====================
+-- Search box style css shifted to "kta-search" plugin.
+-- Improved theme funtionality. 
+
+version 1.5.6
+====================
+-- Woocommerce product grid columns responsive issue fixed.
+-- "Testimonial Slider" mobile responsive width increased.
+-- Top Header right search styling issue fixed. 
+
+version 1.5.5
+====================
+—- Wp admin dashboard loading issue fixed, it was dead slow, now we fixed it.
+-- Menu issue fixed in responsive view.
+-- Sample page issue fixed.
+
+version 1.5.4
+====================
+-- Scroll Top Overlapping on pagination issue fixed.
+-- Blog Single Page list style issue fixed.
+-- Sub Menu Link alignment issue fixed.
+-- Menu Active link issue fixed.
+-- Blog Single Page Submit Button issue fixed.
+-- WooCommerce Single Page Alignment issue fixed.
+-- Page Title Bar Responsive issue fixed.
+-- Shop Page Product Responsive issue fixed.
+-- Shop Inner Page Responsive Alignment issue fixed.
+
+
+version 1.5.3
+====================
+-- Responsive issue fixed.
+
+version 1.5.2
+====================
+-- Updated "Talent Agency" Plugin.
+-- Updated "Talent Agency - Shortlist" Plugin.
+-- updated "Talents - Search" Plugin. 
+
+version 1.5.1
+====================
+-- Search icon color options issue fixed.
+-- woomembership conflict with theme issue fixed.
+-- minor issue fixed.
+
+version 1.5.0
+====================
+-- Advanced Search settings removed from  "Appearance > Customize > Header Section" and shifted to "Kta-search" plugin.
+-- Header overlapping on mid container issue fixed.
+-- user dashboard section Colors issue fixed.
+
+version 1.4.9
+====================
+-- Remove Search functionality from theme and added as a "kta-search".
+-- Updated language files.
+-- Some minor issue fixed.
+
+version 1.4.8
+====================
+-- Added Advanced menu. 
+
+version 1.4.7
+====================
+-- Drop Down Menu in Mobile view and ipad view issue fixed.
+
+version 1.4.6
+====================
+-- Search images width option added in  customize > Header Section > Search Box Settings.
+-- Search images height option added in  customize > Header Section > Search Box Settings.
+-- customizer Ui slider hiding issue fixed.
+
+version 1.4.5
+====================
+-- Removed shortlist options from theme and added as a "Talent Agency - Talents Shortlist Add On"
+-- Child Menu Settings - Links Border Top Color and Links Border Bottom Color issue fixed.
+-- Child Menu Settings - Links Hover Color issue fixed.
+-- Search Box Settings -  background color option hidding issu e fixed.
+--  Added tag cloud hover bg color and text color in Page Sidebar Color Settings.
+-- Live preview issue fixed in Portfolio Category Settings .
+-- Select Sidebar issue fixed in Portfolio Category Settings.
+-- Portfolio - Pagination issue fixed.
+-- Shop page issue fixed.
+-- Coming Soon Page Social Icon Color issue fixed.
+-- Post Slider Description issue fixed.
+-- Post slider bottom scroll bar in responsive view issue fixed.
+-- Contact form input field text padding issue fixed.
+-- Advanced Search text alignment issue fixed.
+
+version 1.4.4
+====================
+-- "Shortlist PDF" download issue fixed.
+-- Fixed Search Icon Background Hover Color issue.
+-- Fixed Search Icon Hover Color issue.
+-- Fixed Disable Search Box issue.
+-- Fixed Select Header Logo Type "none" option issue.
+-- Fixed Search Icon Background Hover Color option hiding issue when    tick the disable search box check box .
+-- Fixed Search Icon Hover Color option hiding issue when tick the   disable search box check box .
+-- Fixed Title Position "left" and "right" options issue.
+-- Fixed Model Information Titles color live preview issue.
+-- Fixed Model Information Color live preview issue.
+-- Fixed Tabs Color Section live preview issue.
+-- Fixed Slider Next / Prevous Buttons live preview issue.
+-- Fixed Compcard Image Title BG live preview issue.
+-- Fixed Input Fileds Colors issue.
+-- Fixed Form Submit Button Text Color issue.
+-- Fixed Form Submit Button Hover Background Color issue.
+-- Fixed Form Submit Button Hover Text Color issue.
+-- Fixed Portfolio & Blog Single Page Buttons Letter Space issue.
+-- Fixed Portfolio & Blog Single Page Buttons Font Weight issue.
+-- Fixed Portfolio & Blog Single Page Buttons Font Style issue.
+-- Fixed Disable Pattern issue in comming soon page.
+-- Fixed Date Color ,Date Week / Days / Hours Color issue.
+-- Fixed Booking Form issue.
+
+version 1.4.3
+====================
+-- Shortlist email form issue fixed.
+
+version 1.4.2
+====================
+-- Compcard image details color issue fixed.
+-- Made changes in kaya-julia-plugin.
+-- Made changes in "Talent Agency".
+
+version 1.4.1
+====================
+-- Kaya post slider issue fixed.
+-- Added search icon hover color option and icon hover background color.
+-- sub menu alignment issue fixed.
+-- Search box hover color issue fixed.
+-- Issue fixed, Appearance > menus primary menu.
+-- Added default image for blog post standard format.
+-- Added default image for blog post Gallery format.
+-- Main slider nav button color issue fixed.
+-- Team slider active nav button issue fixed.
+-- Client slider images disturbed issue fixed.
+-- Modified "One click demo".
+-- Contact form background color issue fixed.
+
+version 1.4.0
+====================
+-- Made changes in kaya-julia-plugin.
+-- Made changes in "Talent Agency".
+
+version 1.3.9
+====================
+-- Portfolio single page next/prev button display issue fixed, when enabled from customize > portfolio section >  portfolio Single Page settings.
+-- Portfolio single page comment display issue fixed, when enabled from customize > portfolio section >  portfolio Single Page settings.
+
+version 1.3.8
+====================
+-- Model Single Page "Shortlist" Button display issue fixed.
+-- Blog single page image width issue fixed.
+-- "ReCaptch " Settings remove from Theme Customizer and added to " Talent Agency" Plugin in "Talent Agency > General > Captcha Section".
+
+version 1.3.7
+====================
+-- Added new feature blog "category, tags, archives" pages side bar options added in theme customize -> Blog Posts Section.  
+-- Added new feature blog "category, tags, archives" pages content limit words  added in theme customize -> Blog Posts Section. 
+-- Blog single page sidebar postion options shifterd to customize -> Blog Single Page Section.
+-- Error page styling issue fixed.
+-- comming soon page styling issue fixed. 
+
+version 1.3.6
+====================
+-- Model image title color issue fixed when search model.
+-- Made changes in kaya-julia-plugin.
+-- Made changes in "Talent Agency".
+
+version 1.3.5
+====================
+-- Shortlist "PDF" download issue fixed.
+-- File loading issue fixed.
+-- Made changes in "Talent Agency" plugin.
+-- Made changes in "Kaya Roles Manager" plugin.
+
+version 1.3.4
+====================
+-- Made changes in kaya-julia-plugin.
+-- Updated core functionality.
+
+version 1.3.3
+====================
+-- Removed " Memeber Login Section " Apperence > customize > Header Section.
+-- Remove "Sociacl Sharing" Apperence > customize > Portfolio Section.
+-- Added new feature clicked on "Search " button hide search box.
+-- Made changes in "Talent Agency".
+
+version 1.3.2
+====================
+- Added New "Talent-Agency" Plugins.
+- Columns Slider Column3 issue fixed.
+- Added Slider Nav Buttons Hover Color option to Columns Slider.
+- Removed julia "model options" generator from "kaya julia plugin" added them in "Talent Agency" as a new plugin.
+-- Short list issue fixed.
+
+version 1.3.1
+====================
+- Made changes in kaya-julia-plugin.
+
+version 1.3.0
+====================
+- Made changes in kaya-julia-plugin.
+
+version 1.2.9
+====================
+- Made changes in kaya-julia-plugin.
+
+version 1.2.8
+====================
+- Updated woocommerce files.
+
+version 1.2.7
+====================
+-- Footer menu links issue fixeds.
+-- Top menu display issue fixed.
+-- Shortlist pdf download issue fixed.
+-- Model single page " Model Id " text change issue fixed.
+-- Email attachments images streched issue fixed.
+-- Model Single Page compcard images issue fixed.
+
+version 1.2.6
+====================
+-- Issue fixed, Disable the "Members Login Text" from the  "theme customize >  header section" portfolio images disturbed.
+-- Portfolio Category images " Masonry " enable option added in customize > portfolio section > portfolio category settings.
+-- Image hover effect added to all portfolio images. 
+
+version 1.2.5
+====================
+-- shortlist option enable option added when user login in theme customize -> Model Shortlist Section > Model Shortlist Section > Model Shortlist Settings.  
+-- Added Responsive model images.
+-- Comments options added in portfolio single page
+-- Portfolio Comments section enable / disable option added in themecustomize > portfolio section > portfolio Single Page settings.
+-- Updated TGM Activation plugin .
+
+version 1.2.4
+====================
+-- when child theme is active  " Kaya Julia Plugin " installation issue fixed.
+-- Added Comments Section to " Model Single Page ".
+-- " Model Single Page " Comment section Enable / Disable Options added in themecustomize > portfolio section > portfolio Single Page settings.
+-- " Model single page " gallery slider jquery error fixed.
+
+version 1.2.3
+====================
+-- Added new "Columns Slider" " Dashboard > Pages " Page Background Options > Choose Subheader Style  as a " Header Slider > Select Slider Type > Columns Slider".
+-- Minor issues fixed.
+-- Responsive issues fixed.
+-- Updated One click Demo.
+-- Updated .POT file.
+
+version 1.2.2
+====================
+-- Responsive issues fixed.
+-- Images loading issue fixed 
+
+version 1.2.1
+====================
+-- Few changes are made in plugin.
+
+version 1.2.0
+====================
+-- Model Single page tabs issue fixed.
+-- Added new feature " Model Shortlist( addto shortlist, remove shortlist and shortlist page) " enable / disable in theme customize -> Model Shortlist Section > Model Shortlist Section > Model Shortlist Settings. 
+
+version 1.1.9
+====================
+-- Short Code option Display issue fixed on model single page.
+
+version 1.1.8
+====================
+-- Default image issue fixed.
+-- Sidebar styling missing issue fixed.
+
+version 1.1.7
+====================
+- Meta boxes removed from theme and  added as a TGM Plugin
+
+version 1.1.6
+====================
+-- Categories added in sidebar search filter.
+-- Model Id added in sidebar search filter.
+
+version 1.1.5
+====================
+-- Added new feature "Ajax Advanced Model Search".
+-- Added new feature to  generate dynamically and edit model ID from admin.
+-- Booking Model form alignment issue fixed.
+
+version 1.1.4
+====================
+-- Added new feature "Model Short List" page.
+-- Added new feature "Shortlist" Page Template.
+-- Added new feature "Short List Models" Print.
+-- Added new feature "Short List Models" PDF Download.
+-- Added new feature "Short List Models " Send to others.
+-- Added new feature "Short List Models" Booking options ( send emails to admin ).
+-- "Model Options" settings added in  themecustomize > model shortlist section > model shortlist settings.
+-- "Model Booking form" settings added in  themecustomize > model shortlist section > shortlist booking form.
+-- Updated One click demo.
+-- updated language(.pot) file.
+
+version 1.1.3
+====================
+-- Added new feature in " Theme Customize " for adding content warning popup window. 
+
+version 1.1.2
+====================
+	-- Model search issue fixed.
+	-- Model single page tabs loading issue fixed.
+	-- Added new option in model single page "Back to Model Gallery", it is located at the top right side of model details sidebar. 
+
+version 1.1.1
+====================
+	-- Garay scale mode option added in themecustomize > portfolio section > portfolio category settings.
+	-- Model category( Taxonomy page) page title bar disable option added in themecustomize > portfolio section > portfolio category settings.
+	-- Sticky header Enable / Disable option added in themecustomize > header section > header settings.
+	-- Sticky footer Enable / Disable option added in themecustomize > footer section.
+	-- "Kaya Post Slider" category issue fixed.
+	-- "Page Background options " Slider type > "Slider Plugin Short code issue fixed".
+	-- Model single page Email sharing "Email" issue fixed.
+	-- Footer menu added.
+	-- added Header bottom position shadow.
+	-- added footer top position shadow.
+	-- added shadow to shadow.
+	-- PO file updated.
+	-- One click demo content updated.
+
+version 1.1.0
+====================
+	-- Complete layout re-design.
+	-- Header re-designed.
+	-- Menu re-designed.
+	-- Footer re-designed.
+	-- Model Single page re-designed.
+	-- Confirmation alert message after model portfolio submission.
+
+version 1.0.2
+====================
+	-- New options added in "Apperence > customize > menu" section.
+	-- New options added in "Apperence > customize > Header Section" in header left & right section.
+	-- New section added in "Apperence > customize > Globel Section" Dashboard Settings.
+	-- Enhance submenu.
+	-- Updated Onclick Demo.
+
+version 1.0.1
+====================
+	-- Scrollbar issue fixed.
+	-- Submenu hover issue fixed.
+	-- Added new option "User Logout Icon" top position right side.
+	
+version 1.0
+====================
+	Initial Release
